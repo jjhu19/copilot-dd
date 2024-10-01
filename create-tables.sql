@@ -1,3 +1,4 @@
+-- define a select statement to get all students enrolled in a course
 -- create tables
 CREATE TABLE training.categories (
 	training_id INT IDENTITY (1, 1) PRIMARY KEY,
